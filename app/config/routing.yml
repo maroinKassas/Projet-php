@@ -1,0 +1,7 @@
+as_dhry_platform:
+    resource: "@AsDhryPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

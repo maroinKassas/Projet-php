@@ -1,0 +1,4 @@
+services:
+#    as_dhry_platform.example:
+#        class: AsDhry\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

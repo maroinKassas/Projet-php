@@ -1,0 +1,3 @@
+as_dhry_platform_homepage:
+    path:     /
+    defaults: { _controller: AsDhryPlatformBundle:Default:index }
